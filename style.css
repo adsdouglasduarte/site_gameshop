@@ -126,6 +126,7 @@ form.formulario ,form input ,form textarea , form button {
 
 form textarea {
     resize: none;
+    height: 180px;
 }
 
 .links-img img {
@@ -182,6 +183,9 @@ input , textarea {
     font-style: normal;
 }
 
+input:focus , textarea {
+    outline-color: #182C61;
+}
 
 /*footer*/
 
