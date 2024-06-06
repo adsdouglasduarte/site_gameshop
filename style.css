@@ -6,6 +6,10 @@
     box-sizing: border-box;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 /*fontes-do-google-fonts*/
 .bungee-regular {
     font-family: "Bungee", sans-serif;
